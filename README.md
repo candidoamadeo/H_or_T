@@ -1,6 +1,7 @@
 # H_or_T
-Displays Heads or Tails
-#heads or tails
+
+#Displays Heads or Tails
+
 import random as rd
 x = rd.randint(1, 2)
 
